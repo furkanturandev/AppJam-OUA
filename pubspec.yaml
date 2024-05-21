@@ -1,0 +1,155 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/frame_4.jpeg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/cellular_connection_5_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/arrow_2_x2.svg
+  - assets/vectors/rectangle_12_x2.svg
+  - assets/vectors/polygon_1_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/polygon_2_x2.svg
+  - assets/vectors/shape_3_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/images/frame_4.jpeg
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/group_x2.svg
+  - assets/vectors/rectangle_x2.svg
+  - assets/vectors/cellular_connection_1_x2.svg
+  - assets/vectors/wifi_4_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/shape_x2.svg
+  - assets/vectors/ionnotifications_x2.svg
+  - assets/vectors/rectangle_3_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/ico_5_x2.svg
+  - assets/vectors/arrow_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/ico_4_x2.svg
+  - assets/images/bitmap.png
+  - assets/images/patlican_dolma_one_cikan_yeni_1.png
+  - assets/images/kadayf_dolmas.png
+  - assets/images/tam_kivaminda_icli_kofte_yeni_1.png
+  - assets/images/bitmap_4.png
+  - assets/images/tavuk_sote_resmi.png
+  - assets/vectors/ico_copy_32_x2.svg
+  - assets/vectors/path_x2.svg
+  - assets/vectors/ico_copy_4_x2.svg
+  - assets/vectors/ico_copy_43_x2.svg
+  - assets/vectors/cellular_connection_3_x2.svg
+  - assets/vectors/path_2_x2.svg
+  - assets/vectors/ico_copy_33_x2.svg
+  - assets/vectors/ico_2_x2.svg
+  - assets/vectors/clock_3_x2.svg
+  - assets/vectors/rectangle_7_x2.svg
+  - assets/vectors/clock_x2.svg
+  - assets/vectors/clock_2_x2.svg
+  - assets/vectors/path_5_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/rectangle_9_x2.svg
+  - assets/vectors/container_3_x2.svg
+  - assets/vectors/ico_copy_2_x2.svg
+  - assets/vectors/rectangle_11_x2.svg
+  - assets/vectors/path_3_x2.svg
+  - assets/vectors/ico_x2.svg
+  - assets/vectors/ico_copy_41_x2.svg
+  - assets/vectors/ico_rate_1_x2.svg
+  - assets/vectors/ico_rate_2_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/ico_copy_2_x2.svg
+  - assets/vectors/ico_rate_4_x2.svg
+  - assets/vectors/shape_2_x2.svg
+  - assets/vectors/ico_copy_1_x2.svg
+  - assets/vectors/ico_copy_22_x2.svg
+  - assets/vectors/ico_rate_x2.svg
+  - assets/vectors/ico_9_x2.svg
+  - assets/vectors/arrow_1_x2.svg
+  - assets/vectors/ico_copy_24_x2.svg
+  - assets/vectors/ico_copy_31_x2.svg
+  - assets/vectors/ico_copy_23_x2.svg
+  - assets/vectors/path_1_x2.svg
+  - assets/vectors/rectangle_8_x2.svg
+  - assets/vectors/rectangle_4_x2.svg
+  - assets/vectors/rectangle_1_x2.svg
+  - assets/vectors/ico_3_x2.svg
+  - assets/vectors/ico_copy_3_x2.svg
+  - assets/vectors/clock_1_x2.svg
+  - assets/vectors/ico_7_x2.svg
+  - assets/vectors/ico_copy_42_x2.svg
+  - assets/vectors/ico_6_x2.svg
+  - assets/vectors/ico_copy_3_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/container_2_x2.svg
+  - assets/images/bitmap_3.png
+  - assets/images/bitmap_2.png
+  - assets/images/bitmap_1.png
+  - assets/images/frame_4.jpeg
+  - assets/vectors/cellular_connection_2_x2.svg
+  - assets/vectors/rectangle_copy_4_x2.svg
+  - assets/vectors/ico_copy_21_x2.svg
+  - assets/vectors/ico_10_x2.svg
+  - assets/vectors/ico_copy_x2.svg
+  - assets/vectors/water_x2.svg
+  - assets/vectors/ico_copy_4_x2.svg
+  - assets/vectors/rectangle_5_x2.svg
+  - assets/vectors/path_4_x2.svg
+  - assets/vectors/ico_1_x2.svg
+  - assets/vectors/rectangle_2_x2.svg
+  - assets/vectors/fast_food_x2.svg
+  - assets/vectors/ico_8_x2.svg
+  - assets/vectors/rectangle_6_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/ico_rate_3_x2.svg
+  - assets/vectors/rectangle_13_x2.svg
+  - assets/vectors/rectangle_copy_21_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/shape_1_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/baby_boy_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/clock_4_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/service_x2.svg
+  - assets/vectors/ico_copy_34_x2.svg
+  - assets/vectors/rectangle_copy_3_x2.svg
+  - assets/vectors/carrots_x2.svg
+  - assets/vectors/birthday_cake_x2.svg
+  - assets/images/tavuk_sote_resmi.png
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/cellular_connection_x2.svg
+  - assets/vectors/cellular_connection_4_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/rectangle_10_x2.svg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/arrow_3_x2.svg
+  - assets/vectors/arrow_4_x2.svg
+  - assets/vectors/rectangle_copy_2_x2.svg
+
